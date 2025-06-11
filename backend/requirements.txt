@@ -1,0 +1,5 @@
+python-multipart
+bcrypt
+reportlab
+openpyxl
+
